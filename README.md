@@ -1,7 +1,6 @@
 # Aayan Sheikh
 
 Software engineering intern working on AI tooling for healthcare and small-business web infrastructure.
-B.S. Network and Digital Technology, UC Santa Cruz — June 2026.
 
 ---
 
