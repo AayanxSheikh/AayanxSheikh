@@ -37,17 +37,6 @@ Software engineering intern working on AI tooling for healthcare and small-busin
 
 ---
 
-### GitHub stats
-
-<a href="https://github.com/AayanxSheikh">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayanxSheikh&show_icons=true&theme=github_dark&hide_border=true&count_private=false&card_width=420" />
-</a>
-<a href="https://github.com/AayanxSheikh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanxSheikh&layout=compact&theme=github_dark&hide_border=true&card_width=420" />
-</a>
-
----
-
 ### Connect
 
 - Portfolio — [aayanthedev.netlify.app](https://aayanthedev.netlify.app)
